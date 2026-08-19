@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShipManagement.Api/ShipManagement.Api.csproj" />
+    <Project Path="src/ShipManagement.Application/ShipManagement.Application.csproj" />
+    <Project Path="src/ShipManagement.Domain/ShipManagement.Domain.csproj" />
+    <Project Path="src/ShipManagement.Infrastructure/ShipManagement.Infrastructure.csproj" />
+  </Folder>
+</Solution>
