@@ -1,0 +1,12 @@
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/bin/Debug/net10.0/ShipManagement.Domain.deps.json
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/bin/Debug/net10.0/ShipManagement.Domain.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/bin/Debug/net10.0/ShipManagement.Domain.pdb
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.AssemblyInfoInputs.cache
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.AssemblyInfo.cs
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.sourcelink.json
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/refint/ShipManagement.Domain.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ShipManagement.Domain.pdb
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Domain/obj/Debug/net10.0/ref/ShipManagement.Domain.dll

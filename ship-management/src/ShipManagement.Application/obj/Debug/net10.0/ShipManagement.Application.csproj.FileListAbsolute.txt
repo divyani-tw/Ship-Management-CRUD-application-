@@ -1,0 +1,16 @@
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.csproj.AssemblyReference.cache
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.AssemblyInfoInputs.cache
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.AssemblyInfo.cs
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.csproj.CoreCompileInputs.cache
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.sourcelink.json
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/bin/Debug/net10.0/ShipManagement.Application.deps.json
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/bin/Debug/net10.0/ShipManagement.Application.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/bin/Debug/net10.0/ShipManagement.Application.pdb
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/bin/Debug/net10.0/ShipManagement.Domain.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/bin/Debug/net10.0/ShipManagement.Domain.pdb
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipMana.3D389043.Up2Date
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/refint/ShipManagement.Application.dll
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ShipManagement.Application.pdb
+/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/obj/Debug/net10.0/ref/ShipManagement.Application.dll

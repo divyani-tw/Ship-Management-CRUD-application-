@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tY60BTeRFtw=",
+  "dgSpecHash": "V3ei2Oz059k=",
   "success": true,
   "projectFilePath": "/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Infrastructure/ShipManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "/Users/divyanisingh/.nuget/packages/microsoft.extensions.caching.memory/10.0.10/microsoft.extensions.caching.memory.10.0.10.nupkg.sha512",
     "/Users/divyanisingh/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.10/microsoft.extensions.configuration.abstractions.10.0.10.nupkg.sha512",
     "/Users/divyanisingh/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.10/microsoft.extensions.dependencyinjection.10.0.10.nupkg.sha512",
-    "/Users/divyanisingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.10/microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512",
+    "/Users/divyanisingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.11/microsoft.extensions.dependencyinjection.abstractions.10.0.11.nupkg.sha512",
     "/Users/divyanisingh/.nuget/packages/microsoft.extensions.dependencymodel/10.0.10/microsoft.extensions.dependencymodel.10.0.10.nupkg.sha512",
     "/Users/divyanisingh/.nuget/packages/microsoft.extensions.logging/10.0.10/microsoft.extensions.logging.10.0.10.nupkg.sha512",
     "/Users/divyanisingh/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.10/microsoft.extensions.logging.abstractions.10.0.10.nupkg.sha512",

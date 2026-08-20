@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ifArFdtmflw=",
+  "dgSpecHash": "kbosTglsRmo=",
   "success": true,
   "projectFilePath": "/Users/divyanisingh/Documents/test/Ship-Management-CRUD-application-/ship-management/src/ShipManagement.Application/ShipManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/divyanisingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.11/microsoft.extensions.dependencyinjection.abstractions.10.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
